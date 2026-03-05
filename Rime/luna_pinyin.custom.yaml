@@ -1,0 +1,17 @@
+patch:
+  translator/dictionary: luna_pinyin.extended
+  punctuator/half_shape:
+    "/": "/"
+    '\': "、"
+    "`": "·"
+    "~": "~"
+    "@": "@"
+    "#": "#"
+    "-": "-"
+    "_": "——"
+    "+": "+"
+    "=": "="
+    "[": "【"
+    "]": "】"
+    "{": "{"
+    "}": "}"
