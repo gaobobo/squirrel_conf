@@ -2,7 +2,7 @@ patch:
   style/color_scheme: slim-native_light
   style/color_scheme_dark: slim-native_dark
 
-  # style/font_face: "SourceHanSansHC-Regular"  # 使用思源黑体
+#   style/font_face: "SourceHanSansHC-Regular"  # 使用思源黑体
 
 
   preset_color_schemes:
