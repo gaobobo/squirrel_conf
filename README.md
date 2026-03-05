@@ -22,7 +22,7 @@ Slim Native主题是本配置的原创主题，接近系统原生的设计，并
 
 ![slime-native](.doc/slim-native.png)
 
-> [!TIPS]
+> [!TIP]
 >
 > 您可以安装思源雅黑，以获得更全面的字符支持。
 >
@@ -40,7 +40,7 @@ Slim Native主题是本配置的原创主题，接近系统原生的设计，并
 
 ## 安装
 
-> [!TIPS]
+> [!TIP]
 >
 > 一句话总结：将`Rime`下的文件复制或合并到`~/Library/Rime`下即可。
 
