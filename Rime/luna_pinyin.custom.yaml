@@ -1,0 +1,22 @@
+patch:
+#  recognizer/patterns/reverse_lookup: ""  # 禁用反查
+  translator/dictionary: luna_pinyin.extended
+  punctuator/half_shape:
+    "/": "/"
+    '\': "、"
+    "`": "·"
+    "~": "~"
+    "@": "@"
+    "#": "#"
+    "-": "-"
+    "_": "——"
+    "+": "+"
+    "=": "="
+    "[": "【"
+    "]": "】"
+    "{": "{"
+    "}": "}"
+    "|": "|"
+    "<": "《"
+    ">": "》"
+    "*": "*"
