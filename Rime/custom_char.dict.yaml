@@ -1,0 +1,188 @@
+# Rime dict
+# encoding: utf-8
+
+---
+name: "自定义符号输入"
+version: "2026-3-5"
+sort: by_weight
+...
+
+←	zuo	120000
+↑	shang	120000
+→	you	120000
+↓	xia	120000
+
++	jia	125000
+−	jian	125000
+×	cheng	125000
+÷	chu	125000
+
+≈	yue deng yu	123000
+≠	bu deng yu	123000
+≤	xiao yu deng yu	123000
+≥	da yu deng yu	123000
+
+α	a er fa	98000
+β	bei ta	98000
+γ	ga ma	98000
+Δ	der ta	98000
+δ	der ta	98000
+ε	e po sen	98000
+η	yi ta	98000
+θ	thi ta	98000
+λ	la m da	98000
+μ	miu	98000
+π	pai	98000
+ρ	rou	98000
+φ	fai	98000
+Ω	o mi a	98000
+ω	o mi ga	98000
+
+α	alpha	96000
+β	beta	96000
+γ	gamma	96000
+Δ	delta	96000
+ε	epsilon	96000
+η	eta	96000
+θ	theta	96000
+λ	lambda	96000
+μ	mu	96000
+π	pi	96000
+ρ	rho	96000
+σ	sigma	96000
+φ	phi	96000
+Ω	omega	96000
+ω	omega	96000
+
+①	yi	86000
+②	er	86000
+③	san	86000
+④	si	86000
+⑤	wu	86000
+⑥	liu	86000
+⑦	qi	86000
+⑧	ba	86000
+⑨	jiu	86000
+⑩	shi	86000
+⑪	shi yi	86000
+⑫	shi er	86000
+⑬	shi san	86000
+⑭	shi si	86000
+⑮	shi wu	86000
+⑯	shi liu	86000
+⑰	shi qi	86000
+⑱	shi ba	86000
+⑲	shi jiu	86000
+⑳	er shi	86000
+
+⑴	yi	84000
+⑵	er	84000
+⑶	san	84000
+⑷	si	84000
+⑸	wu	84000
+⑹	liu	84000
+⑺	qi	84000
+⑻	ba	84000
+⑼	jiu	84000
+⑽	shi	84000
+⑾	shi yi	84000
+⑿	shi er	84000
+⒀	shi san	84000
+⒁	shi si	84000
+⒂	shi wu	84000
+⒃	shi liu	84000
+⒄	shi qi	84000
+⒅	shi ba	84000
+⒆	shi jiu	84000
+⒇	er shi	84000
+
+¼	si fen zhi yi	76000
+⅓	san fen zhi yi	76000
+⅖	wu fen zhi er	76000
+⅙	liu fen zhi yi	76000
+⅛	ba fen zhi yi	76000
+⅞	ba fen zhi qi	76000
+⅑	jiu fen zhi yi	76000
+⅜	ba fen zhi san	76000
+⅚	liu fen zhi wu	76000
+⅗	wu fen zhi san	76000
+⅔	san fen zhi er	76000
+½	er fen zhi yi	76000
+¾	si fen zhi san	76000
+⅕	wu fen zhi yi	76000
+⅘	wu fen zhi si	76000
+⅐	qi fen zhi yi	76000
+⅝	ba fen zhi wu	76000
+⅒	shi fen zhi yi	76000
+
+±	wu cha	101000
+±	zheng fu	99000
+²	ping fang	92000
+³	li fang	92000
+
+⁰	ling ci fang	74000
+¹	yi ci fang	74000
+²	er ci fang	74000
+³	san ci fang	74000
+⁴	si ci fang	74000
+⁵	wu si fang	74000
+
+✓	dui	122000
+✕	cuo	122000
+√	dui	118000
+√	gen hao	122500
+
+∵	yin wei	109000
+∴	suo yi	109000
+
+№	no	83000
+℡	tel	83000
+™	tm	83000
+Ⅰ	i	79000
+Ⅱ	ii	79000
+Ⅲ	iii	79000
+Ⅳ	iv	79000
+Ⅴ	v	79000
+Ⅵ	vi	79000
+Ⅶ	vii	79000
+Ⅷ	viii	79000
+Ⅸ	ix	79000
+Ⅹ	x	79000
+Ⅺ	xi	79000
+Ⅻ	xii	79000
+
+ⅰ	i	77000
+ⅱ	ii	77000
+ⅲ	iii	77000
+ⅳ	iv	77000
+ⅴ	v	77000
+ⅵ	vi	77000
+ⅶ	vii	77000
+ⅷ	viii	77000
+ⅸ	ix	77000
+ⅹ	x	77000
+
+○	yuan	90000
+●	yuan	90000
+★	xing	90000
+☆	xing	90000
+■	fang	90000
+□	fang	90000
+■	ju xing	88000
+□	ju xing	88000
+■	zheng fang xing	86000
+□	zheng fang xing	86000
+▲	san jiao	90000
+△	san jiao	90000
+▼	san jiao	90000
+▽	san jiao	90000
+◆	ling xing	90000
+◇	ling xing	90000
+°	du	93000
+℃	she shi du	93000
+℉	hua shi du	93000
+
+‰	qian fen zhi	82000
+‱	wan fen zhi	82000
+※	zhong dian	82000
+
